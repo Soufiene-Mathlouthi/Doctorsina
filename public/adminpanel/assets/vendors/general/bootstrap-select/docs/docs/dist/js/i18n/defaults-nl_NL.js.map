@@ -1,0 +1,19 @@
+dr: 0x7FFEF57E5130
+[17:19:56.662] [7280] [INFO] Original bytes for DirectX12 - ExecuteCommandLists: 48 89 5C 24 08 48 89 74 24 10 57 48 83 EC 30 8B FA 48 8B F1 48 
+[17:19:56.662] [7280] [INFO] DirectX12 - ExecuteCommandLists Addr: 0x7FFEAF5F5F50
+[17:19:56.681] [7280] [INFO] DirectX12 - Creating Present Detour
+[17:19:56.682] [7280] [INFO] DirectX12 - Creating ExecuteCommandLists Detour
+[17:19:56.683] [7280] [INFO] DirectX12 - Creating ResizeBuffers Detour
+[17:19:56.683] [7280] [INFO] DirectX12 - Creating ResizeBuffers1 Detour
+[17:19:56.684] [7280] [INFO] DirectX12 - waiting for initialization
+[17:19:56.697] [3764] [INFO] DirectX12 - Initialize attempt: 1
+[17:19:56.716] [3764] [INFO] dpiScale: 1.0000
+[17:19:56.949] [3764] [INFO] DirectX12 - Present initialized.
+[17:19:57.085] [7280] [INFO] [Engine::Setup] Waiting for main menu...
+[17:19:57.085] [7280] [INFO] [Engine::Setup] Done
+[17:19:57.085] [7280] [INFO] Set Dropdown Options File: C:\FIFA 23 Live Editor\data\id_map.json
+[17:19:57.085] [7280] [INFO] Set Dropdown Update Options File: E:\Games\FIFA 23\data\id_map.json
+[17:19:57.085] [7280] [INFO] Set Dropdown Options from Json File: C:\FIFA 23 Live Editor\data\id_map.json
+[17:19:57.111] [7280] [INFO] Set Dropdown Options from Json File: E:\Games\FIFA 23\data\id_map.json
+[17:19:57.127] [7280] [INFO] Initial setup done
+[17:19:57.235] [3764] [INFO] [LEConfig::Save] To C:\FIFA 23 Live Editor
