@@ -1,4 +1,4 @@
-<p align="center"> # 🩺 DOCTORSINA </p>
+<p align="center" bold size="xl"> # 🩺 DOCTORSINA 
 
 *Empowering healthcare through seamless communication and management.* </p>
 
