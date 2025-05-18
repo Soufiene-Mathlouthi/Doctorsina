@@ -77,6 +77,3 @@ Build **Doctorsina** from the source and install dependencies:
 
    ```bash
    composer install
-
-
-
