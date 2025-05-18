@@ -1,6 +1,6 @@
-<p align="center" bold size="xl"> # 🩺 DOCTORSINA 
+<h1 align="center"> # 🩺 DOCTORSINA 
 
-*Empowering healthcare through seamless communication and management.* </p>
+*Empowering healthcare through seamless communication and management.* </h1>
 
 ![Last Commit](https://img.shields.io/github/last-commit/Soufiene-Mathlouthi/Doctorsina?label=last%20commit)
 ![Languages](https://img.shields.io/github/languages/count/Soufiene-Mathlouthi/Doctorsina)
